@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+
+<img style="object-fit: cover" width="1200" height="500" src="https://cdnb.artstation.com/p/assets/images/images/017/309/653/large/matt-sanz-winterfell-2019-highpass.jpg?1555448511" />
+
+</div>
 
 <!--
 **pedroscdf/pedroscdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
