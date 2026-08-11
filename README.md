@@ -4,10 +4,11 @@
 
 </div>
 
-<!--
-**pedroscdf/pedroscdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! Welcome to my profile!
 
-Here are some ideas to get you started:
+My name is Pedro. I'm an undergraduate student at UNICAMP, major in Statistics!
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
